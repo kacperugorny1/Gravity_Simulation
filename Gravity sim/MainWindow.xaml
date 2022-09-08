@@ -29,7 +29,7 @@
             <TextBlock x:Name="Vel_text" Height="764" Canvas.Left="125" TextWrapping="Wrap" Text="" Canvas.Top="27" Width="66" HorizontalAlignment="Center" VerticalAlignment="Top" />
             <TextBlock x:Name="Pos_text" Height="756" Canvas.Left="10" TextWrapping="Wrap" Text="" Canvas.Top="27" Width="110"  HorizontalAlignment="Center" VerticalAlignment="Top"/>
             <TextBlock x:Name="Mass_text" Height="757" Canvas.Left="196" TextWrapping="Wrap" Text="" Canvas.Top="27" Width="61" HorizontalAlignment="Center" VerticalAlignment="Top"/>
-            <Button Content="Next pinned" Background="{StaticResource GridlineColor}"  Height="50" Canvas.Left="1496" Canvas.Top="380" Width="94" HorizontalAlignment="Left" VerticalAlignment="Center" Click="Button_Click"/>
+            <Button Content="Next pinned" Background="{StaticResource GridlineColor}"  Height="50" Canvas.Left="1796" Canvas.Top="450" Width="94" HorizontalAlignment="Left" VerticalAlignment="Top" Click="Button_Click"/>
 
 
 

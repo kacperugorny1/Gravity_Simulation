@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kacpi\\Desktop\\c#\\Gravity sim\\Gravity sim\\Gravity sim.csproj",
+      "projectUniqueName": "C:\\Users\\Kacpi\\Desktop\\c#\\Gravity_Simulation\\Gravity sim\\Gravity sim.csproj",
       "projectName": "Gravity sim",
-      "projectPath": "C:\\Users\\Kacpi\\Desktop\\c#\\Gravity sim\\Gravity sim\\Gravity sim.csproj",
+      "projectPath": "C:\\Users\\Kacpi\\Desktop\\c#\\Gravity_Simulation\\Gravity sim\\Gravity sim.csproj",
       "packagesPath": "C:\\Users\\Kacpi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kacpi\\Desktop\\c#\\Gravity sim\\Gravity sim\\obj\\",
+      "outputPath": "C:\\Users\\Kacpi\\Desktop\\c#\\Gravity_Simulation\\Gravity sim\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual_peices\\NuGetPackages"

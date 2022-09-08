@@ -20,3 +20,25 @@ C:\Users\Kacpi\Desktop\c#\Gravity sim\Gravity sim\obj\Release\net6.0-windows\ref
 C:\Users\Kacpi\Desktop\c#\Gravity sim\Gravity sim\obj\Release\net6.0-windows\Gravity sim.pdb
 C:\Users\Kacpi\Desktop\c#\Gravity sim\Gravity sim\obj\Release\net6.0-windows\Gravity sim.genruntimeconfig.cache
 C:\Users\Kacpi\Desktop\c#\Gravity sim\Gravity sim\obj\Release\net6.0-windows\ref\Gravity sim.dll
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\bin\Release\net6.0-windows\Gravity sim.exe
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\bin\Release\net6.0-windows\Gravity sim.deps.json
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\bin\Release\net6.0-windows\Gravity sim.runtimeconfig.json
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\bin\Release\net6.0-windows\Gravity sim.dll
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\bin\Release\net6.0-windows\Gravity sim.pdb
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.csproj.AssemblyReference.cache
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim_MarkupCompile.cache
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim_MarkupCompile.lref
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\App.baml
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.g.resources
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.AssemblyInfoInputs.cache
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.AssemblyInfo.cs
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.csproj.CoreCompileInputs.cache
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.dll
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\refint\Gravity sim.dll
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.pdb
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\Gravity sim.genruntimeconfig.cache
+C:\Users\Kacpi\Desktop\c#\Gravity_Simulation\Gravity sim\obj\Release\net6.0-windows\ref\Gravity sim.dll

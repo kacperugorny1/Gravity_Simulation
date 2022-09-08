@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z1uZ6Pv4q7TNCRdaA3eSrG4imqCQ4S27oEp0mj8mz7ZQEclCg/uojUVIocPP6w6nGfTt4gYzyCpVz1kYoUVX2Q==",
+  "dgSpecHash": "VxX3oAuDOJ0GCqLPKy6ztnPMIOaempaAnyQkUPJqPF/yViuaLHr3K1yMdRWRUK9cDeEHKeXW0prS3zFfOMQ0XA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kacpi\\Desktop\\c#\\Gravity sim\\Gravity sim\\Gravity sim.csproj",
+  "projectFilePath": "C:\\Users\\Kacpi\\Desktop\\c#\\Gravity_Simulation\\Gravity sim\\Gravity sim.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

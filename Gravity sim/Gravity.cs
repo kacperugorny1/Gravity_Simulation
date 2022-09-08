@@ -13,7 +13,7 @@ namespace Gravity_sim
 
         public Gravity()
         {
-            planetList.Add(new Planet(0, 0, 800, 400, 100000));
+            planetList.Add(new Planet(0, 0, 950, 500, 100000));
             planetList.First().move = false;
 
             planetList.Add(new Planet(0, -13, 1300, 400, 100));
