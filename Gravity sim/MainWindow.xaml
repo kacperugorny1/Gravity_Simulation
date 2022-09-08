@@ -1,0 +1,42 @@
+﻿<Window x:Class="Gravity_sim.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Gravity_sim"
+        mc:Ignorable="d"
+        Title="Sim" Height="1000" Width="1900"
+        Background="{StaticResource BackgroundColor}"
+        Foreground="{StaticResource TextColor}"
+        WindowStartupLocation="CenterScreen"
+        Loaded="Start_Simulation"
+        MouseLeftButtonDown="Make_planet"
+        MouseLeftButtonUp="Put_Planet"
+        MouseMove="DrawLine">
+    <Grid>
+        <Grid.ColumnDefinitions>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+        </Grid.RowDefinitions>
+
+        <Canvas x:Name="Sim_Border"
+                Width="1900"
+                Height="1000"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                RenderOptions.EdgeMode="Aliased">
+            <TextBlock x:Name="Vel_text" Height="764" Canvas.Left="125" TextWrapping="Wrap" Text="" Canvas.Top="27" Width="66" HorizontalAlignment="Center" VerticalAlignment="Top" />
+            <TextBlock x:Name="Pos_text" Height="756" Canvas.Left="10" TextWrapping="Wrap" Text="" Canvas.Top="27" Width="110"  HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <TextBlock x:Name="Mass_text" Height="757" Canvas.Left="196" TextWrapping="Wrap" Text="" Canvas.Top="27" Width="61" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+            <Button Content="Next pinned" Background="{StaticResource GridlineColor}"  Height="50" Canvas.Left="1496" Canvas.Top="380" Width="94" HorizontalAlignment="Left" VerticalAlignment="Center" Click="Button_Click"/>
+
+
+
+
+
+        </Canvas>
+
+
+    </Grid>
+</Window>

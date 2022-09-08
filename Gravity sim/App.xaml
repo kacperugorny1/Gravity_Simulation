@@ -1,0 +1,12 @@
+﻿<Application x:Class="Gravity_sim.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Gravity_sim"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="BackgroundColor">#211E2B</SolidColorBrush>
+        <SolidColorBrush x:Key="GirdBackgroundColor">#312C40</SolidColorBrush>
+        <SolidColorBrush x:Key="GridlineColor">#4F4878</SolidColorBrush>
+        <SolidColorBrush x:Key="TextColor">#ffff</SolidColorBrush>
+    </Application.Resources>
+</Application>
